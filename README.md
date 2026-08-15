@@ -11,3 +11,5 @@ https://github.com/user-attachments/assets/d2d8cb25-72be-472b-9bef-d983d62fdedb
 # What I learned
 I learned how to style a webpage and utilize Flexbox to do so. I also learned how to add interactivity to webpages using buttons in HTML and event listeners in JavaScript.
 
+## About
+Initially built in Summer 2025.
